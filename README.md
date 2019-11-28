@@ -1,3 +1,7 @@
+
 # HelloGitHubRepo(Master)
 # This is my practice to use GitHub to create a reposity.
-# Michael Lee | 2019.11.28 Edit 1#
+# 2019.11.28 14:07 Edit
+# 2019.11.28 14:18 Edit(IDEA)
+# 2019.11.28 14:28 Edit(GitHub)
+# 2019.11.28 14:31 Edit(IDEA)
